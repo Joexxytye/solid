@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+     .happy-monkey-regular { 
+        font-family: "Happy Monkey", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        
+      }
+      
+}
+#bff-img {
+    width: 150px;
+    border-radius: 75px;
+    border: 6px solid rgba(255, 192, 203, 0.89);
+    
+}
+body {
+background-color: #a2d2ff;
+color: #faf5f5;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+h1  {
+    text-shadow: 2px 2px 2px black;
+}
+h2 {
+    text-shadow: 2px 2px 2px black;
+}
+h4 {
+    text-shadow: 1px 1px 1px black;
+}
+#bdayy-age {
+    background: pink;
+    display: inline;
+padding: 5px 10px;
+margin-bottom: 10px;
+}
+#bday-date {
+background: pink;
+display: inline;
+padding: 5px 10px;
+margin: 0;
+}
+
+
+
+ #gift-section {
+margin-top: 50px;
+
+ }
+ #gift-title {
+    margin-bottom: 0;
+ }
+ .rpg-img {
+border-radius: 10px;
+width: 350px;
+border: 10px ;
+height: 300px ;
+background-image: url(gift-cover.jpg);
+background-size: cover;
+ }
+ .rpg-img:hover {
+    background-image: url(hot.jpg);
+ }
+
+ #header {
+ display: flex;
+ flex-direction: column;
+ 
+
+ }
+
+
+#rpg-img-boxing {
+height: 200px;
+margin: 0 auto;
+}
+
+#rpg-img-cool{
+    margin: 0 auto;
+
+
+}
+#rpg-img-happy {
+margin: 0 auto;
+
+}
+
+#rpg-img-day {
+    margin: 0 auto;
+}
+
